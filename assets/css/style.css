@@ -334,6 +334,7 @@ svg.photoshop circle {
     background: rgb(240, 240, 240);
     padding-top: 4.5rem;
     padding-bottom: 3rem;
+    overflow: hidden;
 }
 .portfolio_part .portfolio_heading h2::after {
     content: "";
